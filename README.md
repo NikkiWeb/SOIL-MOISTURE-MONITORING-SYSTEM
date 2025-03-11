@@ -33,3 +33,6 @@ The usefulness of this feature is that it provides monitoring of soil moisture, 
 - Flower pot
 - Plant
 - Soil
+
+## Tinkercad link
+https://www.tinkercad.com/things/ldU3epJbVCW-projeto-arduino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
