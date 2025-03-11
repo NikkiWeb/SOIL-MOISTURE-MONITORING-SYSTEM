@@ -1,6 +1,6 @@
 # ARDUINO PROJECT: SOIL MOISTURE MONITORING SYSTEM
 
-## NOMES DA EQUIPE:
+## TEAM NAMES:
 - Nicole Webber Carloto
 - Matheus Henrique Xavier
 
@@ -10,8 +10,13 @@ The main objective is to help check the humidity of the soil where the plant is 
 ## USEFULNESS
 The usefulness of this feature is that it provides monitoring of soil moisture, allowing the user to quickly identify when the plant needs water. This facilitates the proper maintenance of houseplants, promoting more efficient care and avoiding both over- and under-watering.
 
-## CIRCUITO DO PROJETO
-![Circuito Arduino com sensor de umidade do solo]([https://github.com/NikkiWeb/SOIL-MOISTURE-MONITORING-SYSTEM/blob/main/Circuit.jpg?raw=true])
+## PROJECT CIRCUIT
+
+<div align="center">
+  
+![Circuito Arduino com sensor de umidade do solo](https://github.com/NikkiWeb/SOIL-MOISTURE-MONITORING-SYSTEM/blob/main/Circuit.jpg?raw=true)
+
+</div>
 
 ## PROJECT COMPONENTS
 
